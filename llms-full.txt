@@ -1,0 +1,50 @@
+# Geotechnical Engineering — Springfield Missouri
+
+> Geotechnical engineering services in Springfield Missouri, United States.
+
+## Services
+- [Anchors](https://springfield-missouri.geotechnical-engineering.xyz/anchors/)
+- [Atterberg Limits](https://springfield-missouri.geotechnical-engineering.xyz/atterberg-limits/)
+- [Cbr Road](https://springfield-missouri.geotechnical-engineering.xyz/cbr-road/)
+- [Cpt Test](https://springfield-missouri.geotechnical-engineering.xyz/cpt-test/)
+- [Deep Excavations](https://springfield-missouri.geotechnical-engineering.xyz/deep-excavations/)
+- [Excavation Monitoring](https://springfield-missouri.geotechnical-engineering.xyz/excavation-monitoring/)
+- [Excavations](https://springfield-missouri.geotechnical-engineering.xyz/excavations/)
+- [Flexible Pavement](https://springfield-missouri.geotechnical-engineering.xyz/flexible-pavement/)
+- [Footings](https://springfield-missouri.geotechnical-engineering.xyz/footings/)
+- [Foundations](https://springfield-missouri.geotechnical-engineering.xyz/foundations/)
+- [Geophysics](https://springfield-missouri.geotechnical-engineering.xyz/geophysics/)
+- [Ground Improvement](https://springfield-missouri.geotechnical-engineering.xyz/ground-improvement/)
+- [Grouting](https://springfield-missouri.geotechnical-engineering.xyz/grouting/)
+- [In Situ Permeability](https://springfield-missouri.geotechnical-engineering.xyz/in-situ-permeability/)
+- [Investigation](https://springfield-missouri.geotechnical-engineering.xyz/investigation/)
+- [Lab In Situ](https://springfield-missouri.geotechnical-engineering.xyz/lab-in-situ/)
+- [Laboratory](https://springfield-missouri.geotechnical-engineering.xyz/laboratory/)
+- [Liquefaction](https://springfield-missouri.geotechnical-engineering.xyz/liquefaction/)
+- [Masw](https://springfield-missouri.geotechnical-engineering.xyz/masw/)
+- [Mat Foundations](https://springfield-missouri.geotechnical-engineering.xyz/mat-foundations/)
+- [Piles](https://springfield-missouri.geotechnical-engineering.xyz/piles/)
+- [Plate Load Test](https://springfield-missouri.geotechnical-engineering.xyz/plate-load-test/)
+- [Resistivity](https://springfield-missouri.geotechnical-engineering.xyz/resistivity/)
+- [Retaining Walls](https://springfield-missouri.geotechnical-engineering.xyz/retaining-walls/)
+- [Rigid Pavement](https://springfield-missouri.geotechnical-engineering.xyz/rigid-pavement/)
+- [Road Geotechnics](https://springfield-missouri.geotechnical-engineering.xyz/road-geotechnics/)
+- [Sand Cone Density](https://springfield-missouri.geotechnical-engineering.xyz/sand-cone-density/)
+- [Seismic](https://springfield-missouri.geotechnical-engineering.xyz/seismic/)
+- [Seismic Isolation](https://springfield-missouri.geotechnical-engineering.xyz/seismic-isolation/)
+- [Seismic Microzonation](https://springfield-missouri.geotechnical-engineering.xyz/seismic-microzonation/)
+- [Slope Stability](https://springfield-missouri.geotechnical-engineering.xyz/slope-stability/)
+- [Slopes](https://springfield-missouri.geotechnical-engineering.xyz/slopes/)
+- [Soft Ground Tunnels](https://springfield-missouri.geotechnical-engineering.xyz/soft-ground-tunnels/)
+- [Spt Drilling](https://springfield-missouri.geotechnical-engineering.xyz/spt-drilling/)
+- [Stone Columns](https://springfield-missouri.geotechnical-engineering.xyz/stone-columns/)
+- [Test Pits](https://springfield-missouri.geotechnical-engineering.xyz/test-pits/)
+- [Triaxial](https://springfield-missouri.geotechnical-engineering.xyz/triaxial/)
+- [Vibrocompaction](https://springfield-missouri.geotechnical-engineering.xyz/vibrocompaction/)
+
+## Contact
+- Website: https://springfield-missouri.geotechnical-engineering.xyz/
+
+## About
+This site provides geotechnical engineering services in Springfield Missouri, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
